@@ -1,0 +1,11 @@
+.bg-image {
+    background-image: url("../img/bg-img.jpg");
+    background-color: #858796;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.bg-shadow {
+    background-color: rgba(30, 30, 30, 0.75);
+}
